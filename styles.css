@@ -15,15 +15,16 @@ div{
 }
 
 #lugares{
-    width: 50%;
+    width: 45%;
+    align-content: center;
+}
+
+#noticias{
+    width: 25%;
 }
 
 #img1 {
-    width: 80%;
-}
-
-#img2 {
-    width: 90%;
+    width: 100%;
 }
 
 #lugar1 {
